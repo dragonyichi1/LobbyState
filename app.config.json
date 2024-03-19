@@ -1,16 +1,16 @@
 {
   "name": "Runescape Lobby State Checker",
-  "author": "meep",
+  "author": "Meep",
   "description": "A script to check for lobby state in Runescape and send a notification when detected.",
   "version": "1.0.0",
-  "url": "https://github.com/dragonyichi1/LobbyState/blob/main/Lobbystate.js",
+  "url": "https://raw.githubusercontent.com/dragonyichi1/LobbyState/main/index.html",
   "permissions": ["notifications"],
   "app": {
-    "index": "https://github.com/dragonyichi1/LobbyState/blob/main/index.html",
+    "index": "https://raw.githubusercontent.com/dragonyichi1/LobbyState/main/index.html",
     "autoopen": false
   },
   "alt1": {
-    "url": "https://github.com/dragonyichi1/LobbyState/blob/main/index.html",
+    "url": "https://raw.githubusercontent.com/dragonyichi1/LobbyState/main/index.html",
     "hidden": false
   }
 }
